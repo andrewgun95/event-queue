@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="event.async.EventProcessorTaskTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-18T17:44:56" hostname="DESKTOP-8NS2A7J" time="1.039">
+  <properties/>
+  <testcase name="testSubmit()" classname="event.async.EventProcessorTaskTest" time="1.039"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[pool-1-thread-1] INFO event.async.EventProcessorTask - Task with id 18 took 0.0 secs to processed
+[pool-1-thread-1] INFO event.async.EventProcessorTask - Task with id 18 took 0.0 secs to processed
+[pool-1-thread-1] INFO event.async.EventProcessorTaskTest - Shutting down task event.async.EventProcessorTask@3f4c5ae3
+]]></system-err>
+</testsuite>

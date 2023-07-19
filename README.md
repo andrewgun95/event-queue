@@ -6,13 +6,10 @@ A simple implementation of event queue handle both synchronous and asynchronous 
 
 This implementation consists 2 abstract classes (or interfaces) supplied Event Queue.
 
-  * Event Handler
-
-    Handler class for receiving dispatched message from event queue
-
+  * Event Handler 
+    - Handler class for receiving dispatched message from event queue
   * Event Message
-
-    Dispatched message class sent into event queue
+    - Dispatched message class sent into event queue
 
 ### Asynchronous
 
